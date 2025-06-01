@@ -211,10 +211,6 @@ nftset=/youtube-ui.l.google.com/4#inet#fw4#vpn_wg
 nftset=/yt-video-upload.l.google.com/4#inet#fw4#vpn_wg
 nftset=/yting.com/4#inet#fw4#vpn_wg
 #####Сloudflare#####
-nftset=/cloudflare.com/4#inet#fw4#vpn_wg
-nftset=/one.one.one.one/4#inet#fw4#vpn_wg
-nftset=/cloudflarestatus.com/4#inet#fw4#vpn_wg
-nftset=/cdnjs.com/4#inet#fw4#vpn_wg
 nftset=/engage.cloudflareclient.com/4#inet#fw4#vpn_domains
 #####Texnologi i program#####
 nftset=/adguard.com/4#inet#fw4#vpn_domains
