@@ -41,10 +41,12 @@ nftset=/selezen.org/4#inet#fw4#vpn_domains
 nftset=/hdrezka.ag/4#inet#fw4#vpn_wg
 nftset=/hdrezka.ac/4#inet#fw4#vpn_wg
 nftset=/hdrezka.me/4#inet#fw4#vpn_wg
+nftset=/hd-rezka.tv/4#inet#fw4#vpn_wg
 nftset=/voidboost.cc/4#inet#fw4#vpn_wg
 nftset=/rezka.ag/4#inet#fw4#vpn_wg
 nftset=/rezka.my/4#inet#fw4#vpn_wg
 nftset=/rezkify.com/4#inet#fw4#vpn_wg
+nftset=/rezka-ua.in/4#inet#fw4#vpn_wg
 #####netflix#####
 nftset=/netflix.com/4#inet#fw4#vpn_domains
 nftset=/nflxext.com/4#inet#fw4#vpn_domains
