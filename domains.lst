@@ -18,9 +18,9 @@ nftset=/tvfreedom.io/4#inet#fw4#vpn_domains
 nftset=/unian.net/4#inet#fw4#vpn_domains
 nftset=/pla.fwdcdn.com/4#inet#fw4#vpn_domains
 nftset=/sinst.fwdcdn.com/4#inet#fw4#vpn_domains
-#####bank#####
-nftset=/privatbank.ua/4#inet#fw4#vpn_domains
-nftset=/privat24.ua/4#inet#fw4#vpn_domains
+#####Bank#####
+nftset=/privatbank.ua/4#inet#fw4#vpn_wg
+nftset=/privat24.ua/4#inet#fw4#vpn_wg
 #####Kino#####
 nftset=/bitru.org/4#inet#fw4#vpn_domains
 nftset=/filmix.my/4#inet#fw4#vpn_domains
@@ -48,7 +48,7 @@ nftset=/rezka.ag/4#inet#fw4#vpn_wg
 nftset=/rezka.my/4#inet#fw4#vpn_wg
 nftset=/rezkify.com/4#inet#fw4#vpn_wg
 nftset=/rezka-ua.in/4#inet#fw4#vpn_wg
-#####netflix#####
+#####Netflix#####
 nftset=/netflix.com/4#inet#fw4#vpn_domains
 nftset=/nflxext.com/4#inet#fw4#vpn_domains
 nftset=/nflximg.net/4#inet#fw4#vpn_domains
