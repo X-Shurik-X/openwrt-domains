@@ -165,6 +165,7 @@ nftset=/tiktokv.us/4#inet#fw4#vpn_domains
 nftset=/tiktokw.us/4#inet#fw4#vpn_domains
 nftset=/ttwstatic.com/4#inet#fw4#vpn_domains
 #####Google#####
+nftset=/accounts.google.com/4#inet#fw4#vpn_wg
 nftset=/appspot.com/4#inet#fw4#vpn_wg
 nftset=/googlevideo.com/4#inet#fw4#vpn_wg
 nftset=/lookerstudio.google.com/4#inet#fw4#vpn_wg
@@ -200,10 +201,8 @@ nftset=/gemini.google/4#inet#fw4#vpn_domains
 nftset=/gemini.google.com/4#inet#fw4#vpn_domains
 nftset=/notebooklm.google.com/4#inet#fw4#vpn_domains
 #####
-nftset=/accounts.google.com/4#inet#fw4#vpn_wg
 nftset=/android.googleapis.com/4#inet#fw4#vpn_wg
 nftset=/android.apis.google.com/4#inet#fw4#vpn_wg
-nftset=/googleapis.com/4#inet#fw4#vpn_wg
 nftset=/googleusercontent.com/4#inet#fw4#vpn_wg
 nftset=/video.google.com/4#inet#fw4#vpn_wg
 nftset=/l.google.com/4#inet#fw4#vpn_wg
@@ -216,6 +215,14 @@ nftset=/1e100.net/4#inet#fw4#vpn_wg
 nftset=/restricted.googleapis.com/4#inet#fw4#vpn_wg
 nftset=/googletagmanager.com/4#inet#fw4#vpn_wg
 nftset=/googleapis.l.google.com/4#inet#fw4#vpn_wg
+#####Google_TV#####
+nftset=/embeddedassistant.googleapis.com/4#inet#fw4#vpn_domains
+nftset=/suggestqueries.google.com/4#inet#fw4#vpn_domains
+nftset=/connectivitycheck.gstatic.com/4#inet#fw4#vpn_domains
+nftset=/androidtvlauncherxfe-pa.googleapis.com/4#inet#fw4#vpn_domains
+nftset=/assistant.google.com/4#inet#fw4#vpn_domains
+nftset=/speech.googleapis.com/4#inet#fw4#vpn_domains
+nftset=/oauth.googleusercontent.com/4#inet#fw4#vpn_domains
 #####Youtub#####
 nftset=/youtube.com/4#inet#fw4#vpn_wg
 nftset=/ytimg.com/4#inet#fw4#vpn_wg
