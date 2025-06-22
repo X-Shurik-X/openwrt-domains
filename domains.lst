@@ -18,7 +18,7 @@ nftset=/tvfreedom.io/4#inet#fw4#vpn_domains
 nftset=/unian.net/4#inet#fw4#vpn_domains
 nftset=/pla.fwdcdn.com/4#inet#fw4#vpn_domains
 nftset=/sinst.fwdcdn.com/4#inet#fw4#vpn_domains
-#####Bank#####
+#####bank#####
 nftset=/privatbank.ua/4#inet#fw4#vpn_wg
 nftset=/privat24.ua/4#inet#fw4#vpn_wg
 #####Kino#####
@@ -48,7 +48,7 @@ nftset=/rezka.ag/4#inet#fw4#vpn_wg
 nftset=/rezka.my/4#inet#fw4#vpn_wg
 nftset=/rezkify.com/4#inet#fw4#vpn_wg
 nftset=/rezka-ua.in/4#inet#fw4#vpn_wg
-#####Netflix#####
+#####netflix#####
 nftset=/netflix.com/4#inet#fw4#vpn_domains
 nftset=/nflxext.com/4#inet#fw4#vpn_domains
 nftset=/nflximg.net/4#inet#fw4#vpn_domains
@@ -165,7 +165,6 @@ nftset=/tiktokv.us/4#inet#fw4#vpn_domains
 nftset=/tiktokw.us/4#inet#fw4#vpn_domains
 nftset=/ttwstatic.com/4#inet#fw4#vpn_domains
 #####Google#####
-nftset=/accounts.google.com/4#inet#fw4#vpn_wg
 nftset=/appspot.com/4#inet#fw4#vpn_wg
 nftset=/googlevideo.com/4#inet#fw4#vpn_wg
 nftset=/lookerstudio.google.com/4#inet#fw4#vpn_wg
@@ -182,6 +181,7 @@ nftset=/lh3.googleusercontent.com/4#inet#fw4#vpn_wg
 nftset=/connectivitycheck.gstatic.com/4#inet#fw4#vpn_wg
 nftset=/android.clients.google.com/4#inet#fw4#vpn_wg
 nftset=/prod-lt-playstoregatewayadapter-pa.googleapis.com/4#inet#fw4#vpn_wg
+nftset=/beacons.gvt2.com/4#inet#fw4#vpn_wg
 nftset=/gvt1.com/4#inet#fw4#vpn_wg
 #####Google_ai#####
 nftset=/deepmind.com/4#inet#fw4#vpn_domains
@@ -200,8 +200,10 @@ nftset=/gemini.google/4#inet#fw4#vpn_domains
 nftset=/gemini.google.com/4#inet#fw4#vpn_domains
 nftset=/notebooklm.google.com/4#inet#fw4#vpn_domains
 #####
+nftset=/accounts.google.com/4#inet#fw4#vpn_wg
 nftset=/android.googleapis.com/4#inet#fw4#vpn_wg
 nftset=/android.apis.google.com/4#inet#fw4#vpn_wg
+nftset=/googleapis.com/4#inet#fw4#vpn_wg
 nftset=/googleusercontent.com/4#inet#fw4#vpn_wg
 nftset=/video.google.com/4#inet#fw4#vpn_wg
 nftset=/l.google.com/4#inet#fw4#vpn_wg
