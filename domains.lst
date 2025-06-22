@@ -214,14 +214,6 @@ nftset=/1e100.net/4#inet#fw4#vpn_wg
 nftset=/restricted.googleapis.com/4#inet#fw4#vpn_wg
 nftset=/googletagmanager.com/4#inet#fw4#vpn_wg
 nftset=/googleapis.l.google.com/4#inet#fw4#vpn_wg
-#####Google_TV#####
-nftset=/embeddedassistant.googleapis.com/4#inet#fw4#vpn_domains
-nftset=/suggestqueries.google.com/4#inet#fw4#vpn_domains
-nftset=/connectivitycheck.gstatic.com/4#inet#fw4#vpn_domains
-nftset=/androidtvlauncherxfe-pa.googleapis.com/4#inet#fw4#vpn_domains
-nftset=/assistant.google.com/4#inet#fw4#vpn_domains
-nftset=/speech.googleapis.com/4#inet#fw4#vpn_domains
-nftset=/oauth.googleusercontent.com/4#inet#fw4#vpn_domains
 #####Youtub#####
 nftset=/youtube.com/4#inet#fw4#vpn_wg
 nftset=/ytimg.com/4#inet#fw4#vpn_wg
