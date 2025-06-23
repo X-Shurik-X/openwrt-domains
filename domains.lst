@@ -176,6 +176,7 @@ nftset=/googlevideo.com/4#inet#fw4#vpn_wg
 nftset=/video.google.com/4#inet#fw4#vpn_wg
 nftset=/lookerstudio.google.com/4#inet#fw4#vpn_wg
 nftset=/suggestqueries.google.com/4#inet#fw4#vpn_wg
+nftset=/assistant.google.com/4#inet#fw4#vpn_wg
 nftset=/googletagmanager.com/4#inet#fw4#vpn_wg
 nftset=/googleapis.l.google.com/4#inet#fw4#vpn_wg
 #####Google_play#####
