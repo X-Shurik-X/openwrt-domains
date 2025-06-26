@@ -192,6 +192,7 @@ nftset=/play-games.googleusercontent.com/4#inet#fw4#vpn_wg
 nftset=/play-lh.googleusercontent.com/4#inet#fw4#vpn_wg
 nftset=/play.google.com/4#inet#fw4#vpn_wg
 nftset=/play.googleapis.com/4#inet#fw4#vpn_wg
+nftset=/ccp-lh.googleusercontent.com/4#inet#fw4#vpn_wg
 nftset=/lh3.googleusercontent.com/4#inet#fw4#vpn_wg
 nftset=/connectivitycheck.gstatic.com/4#inet#fw4#vpn_wg
 nftset=/android.clients.google.com/4#inet#fw4#vpn_wg
