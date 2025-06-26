@@ -176,7 +176,7 @@ nftset=/suggestqueries.google.com/4#inet#fw4#vpn_wg
 nftset=/googletagmanager.com/4#inet#fw4#vpn_wg
 nftset=/googleapis.l.google.com/4#inet#fw4#vpn_wg
 nftset=/mtalk.google.com/4#inet#fw4#vpn_wg
-nftset=/gmscompliance-pa.googleapis.com/4#inet#fw4#vpn_wg
+nftset=/gmscompliance-pa.googleapis.com/4#inet#fw4#vpn_domains
 nftset=/digitalassetlinks.googleapis.com/4#inet#fw4#vpn_wg
 nftset=/android-safebrowsing.google.com/4#inet#fw4#vpn_wg
 #####TV#####
