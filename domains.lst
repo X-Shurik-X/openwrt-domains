@@ -175,7 +175,7 @@ nftset=/lookerstudio.google.com/4#inet#fw4#vpn_wg
 nftset=/suggestqueries.google.com/4#inet#fw4#vpn_wg
 nftset=/googletagmanager.com/4#inet#fw4#vpn_wg
 nftset=/googleapis.l.google.com/4#inet#fw4#vpn_wg
-nftset=/mtalk.google.com/4#inet#fw4#vpn_domains
+nftset=/mtalk.google.com/4#inet#fw4#vpn_wg
 #####TV#####
 nftset=/android.apis.google.com/4#inet#fw4#vpn_domains
 nftset=/embeddedassistant.googleapis.com/4#inet#fw4#vpn_domains
