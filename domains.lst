@@ -176,13 +176,14 @@ nftset=/suggestqueries.google.com/4#inet#fw4#vpn_wg
 nftset=/googletagmanager.com/4#inet#fw4#vpn_wg
 nftset=/googleapis.l.google.com/4#inet#fw4#vpn_wg
 nftset=/mtalk.google.com/4#inet#fw4#vpn_wg
-nftset=/gmscompliance-pa.googleapis.com/4#inet#fw4#vpn_wg
-nftset=/digitalassetlinks.googleapis.com/4#inet#fw4#vpn_wg
 nftset=/android-safebrowsing.google.com/4#inet#fw4#vpn_wg
 #####TV#####
+nftset=/android.apis.google.com/4#inet#fw4#vpn_domains
 nftset=/embeddedassistant.googleapis.com/4#inet#fw4#vpn_domains
 nftset=/zerostateproxy-pa.googleapis.com/4#inet#fw4#vpn_domains
+nftset=/notifications-pa.googleapis.com/4#inet#fw4#vpn_domains
 nftset=/googlehomefoyer-pa.googleapis.com/4#inet#fw4#vpn_wg
+nftset=/gmscompliance-pa.googleapis.com/4#inet#fw4#vpn_wg
 nftset=/androidtvlauncherxfe-pa.googleapis.com/4#inet#fw4#vpn_wg
 nftset=/androidtvdreamxfe-pa.googleapis.com/4#inet#fw4#vpn_wg
 #####Google_play#####
@@ -236,7 +237,7 @@ nftset=/returnyoutubedislikeapi.com/4#inet#fw4#vpn_wg
 nftset=/yt3.googleusercontent.com/4#inet#fw4#vpn_wg
 nftset=/embeddedassistant-frontend-clients6.youtube.com/4#inet#fw4#vpn_wg
 #####Сloudflare#####
-nftset=/engage.cloudflareclient.com/4#inet#fw4#vpn_wg
+nftset=/engage.cloudflareclient.com/4#inet#fw4#vpn_domains
 #####Texnologi i program#####
 nftset=/adguard.com/4#inet#fw4#vpn_domains
 nftset=/adminforge.de/4#inet#fw4#vpn_domains
