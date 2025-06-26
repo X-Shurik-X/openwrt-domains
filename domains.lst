@@ -187,7 +187,7 @@ nftset=/gmscompliance-pa.googleapis.com/4#inet#fw4#vpn_wg
 nftset=/androidtvlauncherxfe-pa.googleapis.com/4#inet#fw4#vpn_wg
 nftset=/androidtvdreamxfe-pa.googleapis.com/4#inet#fw4#vpn_wg
 #####Google_play#####
-nftset=/android.googleapis.com/4#inet#fw4#vpn_wg
+nftset=/android.googleapis.com/4#inet#fw4#vpn_domains
 nftset=/googleplay.com/4#inet#fw4#vpn_wg
 nftset=/play-fe.googleapis.com/4#inet#fw4#vpn_wg
 nftset=/play-games.googleusercontent.com/4#inet#fw4#vpn_wg
