@@ -182,6 +182,7 @@ nftset=/android-safebrowsing.google.com/4#inet#fw4#vpn_wg
 #####TV#####
 nftset=/embeddedassistant.googleapis.com/4#inet#fw4#vpn_domains
 nftset=/zerostateproxy-pa.googleapis.com/4#inet#fw4#vpn_domains
+nftset=/notifications-pa.googleapis.com/4#inet#fw4#vpn_domains
 #####Google_play#####
 nftset=/android.googleapis.com/4#inet#fw4#vpn_wg
 nftset=/googleplay.com/4#inet#fw4#vpn_wg
