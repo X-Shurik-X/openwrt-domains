@@ -182,8 +182,9 @@ nftset=/android-safebrowsing.google.com/4#inet#fw4#vpn_wg
 #####TV#####
 nftset=/embeddedassistant.googleapis.com/4#inet#fw4#vpn_domains
 nftset=/zerostateproxy-pa.googleapis.com/4#inet#fw4#vpn_domains
-nftset=/googlehomefoyer-pa.googleapis.com/4#inet#fw4#vpn_domains
-nftset=/notifications-pa.googleapis.com/4#inet#fw4#vpn_domains
+nftset=/googlehomefoyer-pa.googleapis.com/4#inet#fw4#vpn_wg
+nftset=/androidtvlauncherxfe-pa.googleapis.com/4#inet#fw4#vpn_wg
+nftset=/androidtvdreamxfe-pa.googleapis.com/4#inet#fw4#vpn_wg
 #####Google_play#####
 nftset=/android.googleapis.com/4#inet#fw4#vpn_wg
 nftset=/googleplay.com/4#inet#fw4#vpn_wg
@@ -235,7 +236,7 @@ nftset=/returnyoutubedislikeapi.com/4#inet#fw4#vpn_wg
 nftset=/yt3.googleusercontent.com/4#inet#fw4#vpn_wg
 nftset=/embeddedassistant-frontend-clients6.youtube.com/4#inet#fw4#vpn_wg
 #####Сloudflare#####
-nftset=/engage.cloudflareclient.com/4#inet#fw4#vpn_domains
+nftset=/engage.cloudflareclient.com/4#inet#fw4#vpn_wg
 #####Texnologi i program#####
 nftset=/adguard.com/4#inet#fw4#vpn_domains
 nftset=/adminforge.de/4#inet#fw4#vpn_domains
