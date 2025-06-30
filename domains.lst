@@ -181,7 +181,6 @@ nftset=/embeddedassistant.googleapis.com/4#inet#fw4#vpn_domains
 nftset=/zerostateproxy-pa.googleapis.com/4#inet#fw4#vpn_domains
 nftset=/notifications-pa.googleapis.com/4#inet#fw4#vpn_domains
 nftset=/googlehomefoyer-pa.googleapis.com/4#inet#fw4#vpn_domains
-nftset=/gmscompliance-pa.googleapis.com/4#inet#fw4#vpn_domains
 nftset=/androidtvlauncherxfe-pa.googleapis.com/4#inet#fw4#vpn_domains
 nftset=/androidtvdreamxfe-pa.googleapis.com/4#inet#fw4#vpn_domains
 #####Google_play#####
