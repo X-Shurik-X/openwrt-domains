@@ -16,7 +16,6 @@ nftset=/strana.today/4#inet#fw4#vpn_domains
 nftset=/suspilne.media/4#inet#fw4#vpn_domains
 nftset=/tvfreedom.io/4#inet#fw4#vpn_domains
 nftset=/unian.net/4#inet#fw4#vpn_domains
-nftset=/pla.fwdcdn.com/4#inet#fw4#vpn_domains
 nftset=/sinst.fwdcdn.com/4#inet#fw4#vpn_domains
 #####bank#####
 nftset=/privatbank.ua/4#inet#fw4#vpn_wg
