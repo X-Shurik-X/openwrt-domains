@@ -431,6 +431,8 @@ nftset=/xboxservices.com/4#inet#fw4#vpn_domains
 nftset=/xboxstudios.com/4#inet#fw4#vpn_domains
 nftset=/xbx.lv/4#inet#fw4#vpn_domains
 #####Xlam#####
+nftset=/whoer.net/4#inet#fw4#vpn_wg
+nftset=/showip.net/4#inet#fw4#vpn_domains
 nftset=/10minutemail.com/4#inet#fw4#vpn_domains
 nftset=/annas-archive.org/4#inet#fw4#vpn_domains
 nftset=/depositphotos.com/4#inet#fw4#vpn_domains
@@ -462,7 +464,6 @@ nftset=/remove.bg/4#inet#fw4#vpn_domains
 nftset=/rentry.co/4#inet#fw4#vpn_domains
 nftset=/resp.app/4#inet#fw4#vpn_domains
 nftset=/ru-board.com/4#inet#fw4#vpn_domains
-nftset=/showip.net/4#inet#fw4#vpn_domains
 nftset=/simplix.info/4#inet#fw4#vpn_domains
 nftset=/snort.org/4#inet#fw4#vpn_domains
 nftset=/sora.com/4#inet#fw4#vpn_domains
